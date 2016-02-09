@@ -1,7 +1,7 @@
 # AD-Groups-in-Server-2008
 PowerShell Syntax:
 
-$List = Improt-CSV .\[FILENAME]
+$List = Import-CSV .\ [FILENAME]
 
 ForEach ($User in $List)
 
