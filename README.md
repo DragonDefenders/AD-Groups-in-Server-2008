@@ -25,7 +25,7 @@ rxavier1
 
 rxieng01
 
-ralexand
+palexand
 
 
 Operations
@@ -59,7 +59,7 @@ NetWorking
 
 SamAccountName
 
-cthompson
+cthompso
 
 vdisalvo
 
@@ -98,8 +98,38 @@ cmendez1
 
 wchen012
 
-tsteward1
+tsteward
 
 jlasalle
 
-kgrey0123
+kgrey012
+
+
+Informations
+
+SamAccountName
+
+palexander
+
+wjerome1
+
+
+Systems
+
+SamAccountName
+
+wfreund1
+
+emichael
+
+scarter1
+
+dsims123
+
+jjasper1
+
+struman1
+
+tmann012
+
+ombuta01
