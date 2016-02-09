@@ -11,6 +11,7 @@ ForEach ($User in $List)
 GROUPS:
 
 
+
 CompanyExecutives
 
 SamAccountName
@@ -28,6 +29,7 @@ rxieng01
 ralexand
 
 
+
 Operations
 
 SamAccountName
@@ -37,6 +39,7 @@ rxavier1
 pmartina
 
 
+
 HumanResources
 
 SamAccountName
@@ -44,6 +47,7 @@ SamAccountName
 mhixon01
 
 wbinder1
+
 
 
 OPMarketing
@@ -71,6 +75,7 @@ bzubler1
 mfletche
 
 vwebb123
+
 
 
 HelpDesk
