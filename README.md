@@ -5,7 +5,7 @@ $List = Import-CSV .\ [FILENAME]
 
 ForEach ($User in $List)
 
-{Add-ADGroupMember -identity [GROUPNAME] -Member $User.samaccountname
+{Add-ADGroupMember -Identity [GROUPNAME] -Member $User.samaccountname
 
 
 GROUPS:
