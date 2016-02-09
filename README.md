@@ -10,26 +10,53 @@ ForEach ($User in $List)
 
 GROUPS:
 
+
 CompanyExecutives
+
 SamAccountName
+
 ahake001
+
 mlefleur
+
 jroma123
+
 rxavier1
+
 rxieng01
+
 ralexand
 
+
 Operations
+
 SamAccountName
+
 rxavier1
+
 pmartina
 
+
 HumanResources
+
 SamAccountName
+
 mhixon01
+
 wbinder1
 
+
 OPMarketing
+
 SamAccountName
+
 tharden1
+
 cbeignet
+
+
+
+NetWorking
+
+SamAccountName
+
