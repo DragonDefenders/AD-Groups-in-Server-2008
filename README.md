@@ -1,7 +1,10 @@
 # AD-Groups-in-Server-2008
 PowerShell Syntax:
+
 $List = Improt-CSV .\[FILENAME]
+
 ForEach ($User in $List)
+
 {Add-ADGroupMember -identity [GROUPNAME] -Member $User.samaccountname
 
 
